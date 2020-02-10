@@ -1,11 +1,10 @@
-
 <!-- @format -->
 
 # Design Teardown
 
 > In this project we had to perform a design teardown of the Smashing Magazine website, where we had to paint a picture in grayscale of visual hierarchy, in other word sections of the page that stood out "caught your eye" more that the others. This project focus on visual hierarchy, typography and design principles.
 
-![screenshot](./app_screenshot.png)
+![screenshot](images/screenshot.png)
 
 Additional description about the project and its features.
 
