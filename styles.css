@@ -314,3 +314,277 @@ picture>img {
   line-height: 1.2;
   color: #333;
 }
+
+
+.smashing-newsletter h3 {
+  font-size: 47px;
+  line-height: 57px;
+  color: #555;
+}
+
+.latest-post .lg h3 {
+  font-size: 47px;
+}
+
+.author-content p:nth-of-type(2) {
+  font-size: 21px;
+  line-height: 35px;
+  font-weight: 400;
+}
+
+.pre-launch p:nth-of-type(2) {
+  font-size: 26px;
+  line-height: 43px;
+  font-weight: 400;
+  width: 55vw;
+  text-align: center;
+}
+
+.author-content p:nth-of-type(1) {
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+.smashing-book-content p:nth-of-type(1) {
+  font-size: 1em;
+  letter-spacing: 2px;
+  font-weight: 700;
+  line-height: 27px;
+}
+
+.smashing-book-content p:nth-of-type(2) {
+  font-size: 22px;
+  line-height: 37px;
+  font-weight: 400;
+  width: 60vw;
+}
+
+.smashing-newsletter p:nth-of-type(1) {
+  font-size: 22px;
+  line-height: 37px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.smashing-newsletter p:nth-of-type(2) {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.smashing-topics>p:nth-of-type(2) {
+  font-size: 17px;
+  line-height: 30px;
+  letter-spacing: 1;
+  font-weight: 400;
+}
+
+.latest-post .lg p:nth-of-type(1) {
+  font-size: 22px;
+  line-height: 37px;
+  align-items: center;
+}
+
+.community-post {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  background: #999;
+}
+
+.community-post>div:nth-of-type(1) {
+  height: 250px;
+  width: 250px;
+  background: #222;
+  justify-self: center;
+}
+
+.feature-smash-book {
+  width: 100vw;
+  background: #999;
+}
+
+.left-column {
+  width: 50%;
+  float: left;
+  background: #999;
+}
+
+.right-column {
+  width: 50%;
+  float: left;
+  background: #999;
+}
+
+.comment {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  margin: 88px 0;
+}
+
+.author {
+  height: 79px;
+  width: 79px;
+  background: #222;
+  justify-self: center;
+}
+
+.smashing-book {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  padding: 0 0 0 40px;
+  background: #333;
+}
+
+.smashing-book-img {
+  justify-self: start;
+  background: #222;
+  height: 370px;
+  width: 254px;
+  transform: rotate(-15deg);
+}
+
+.smashing-book-content button {
+  height: 59px;
+  border-radius: 25px;
+  font-size: 21px;
+  color: #555;
+  background: #333;
+}
+
+.curated-post {
+  width: 100vw;
+  padding: 0 0 0 50px;
+  margin-top: 11em;
+}
+
+.curated-content {
+  width: 25%;
+  float: left;
+}
+
+.curated-content ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.curated-content ul li {
+  font-size: 22px;
+  line-height: 37px;
+  color: #333;
+}
+
+.smashing-newsletter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 1142px;
+  width: 1772px;
+  background: #222;
+  border-radius: 25px;
+  margin: 0 auto;
+}
+
+.smashing-img {
+  height: 557px;
+  width: 557px;
+  border-radius: 100%;
+  background: #333;
+  padding: 22px 0 44px 0;
+}
+
+.smashing-input {
+  height: 59px;
+  width: 400px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.smashing-input input {
+  height: 100%;
+  width: 50%;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  float: left;
+}
+
+.smashing-input button {
+  float: left;
+  height: 66px;
+  width: 150px;
+  padding: 1px;
+  border: 2px solid #999;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.smashing-topics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #333;
+}
+
+.smashing-topics-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 9em 0;
+}
+
+.smashing-topics-img {
+  position: absolute;
+  height: 120px;
+  width: 95px;
+  background: #222;
+  left: 10em;
+}
+
+.smashing-topics ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.smashing-topics>ul:nth-of-type(1) {
+  height: 300px;
+  flex: 1;
+  justify-content: center;
+}
+
+.smashing-topics-links>ul:nth-of-type(1) {
+  height: 100px;
+  justify-content: center;
+  flex-basis: 645px;
+}
+
+.smashing-topics>ul:nth-of-type(1) li {
+  display: flex;
+  flex-direction: row;
+  font-size: 27px;
+  line-height: 61px;
+  font-weight: 400;
+  width: 154px;
+  justify-content: center;
+}
+
+.smashing-topics-links>ul:nth-of-type(1) li {
+  display: flex;
+  flex-direction: row;
+  font-size: 17px;
+  line-height: 30px;
+  font-weight: 400;
+  width: 161px;
+  justify-content: center;
+}
+
+.footer-img {
+  align-self: flex-end;
+  height: 65px;
+  width: 65px;
+  background: #888;
+}

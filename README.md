@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/aulbytj/DesignTeardown/feature-a/index.html)
 
 ## Authors
 
@@ -28,9 +28,9 @@ Additional description about the project and its features.
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@kagaramag](https://github.com/kagaramag)
+- Twitter: [@kagaramag](https://twitter.com/kagaramag)
+- Linkedin: [kagarama](https://linkedin.com/in/kagarama)
 
 ## 🤝 Contributing
 
