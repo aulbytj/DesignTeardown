@@ -7,8 +7,10 @@ body {
   font-family: sans-serif;
 }
 
-h1, h2, h3{
-  font-family: "MijaW03-Bold";
+h1,
+h2,
+h3 {
+  font-family: 'MijaW03-Bold';
 }
 
 h2 {
@@ -31,46 +33,33 @@ picture>img {
 }
 
 .bg-gray-1 {
-  background: #454545
+  background: #454545;
 }
 
 .bg-gray-2 {
-  background: #2f2f2f
+  background: #2f2f2f;
 }
 
 .bg-gray-3 {
-  background: #1d1d1d
-}
-
-.bg-gray-1 {
-  background: #454545
-}
-
-.bg-gray-2 {
-  background: #2f2f2f
-}
-
-.bg-gray-3 {
-  background: #1d1d1d
+  background: #1d1d1d;
 }
 
 .bg-light-gray-1 {
-  background: #bebebe
+  background: #bebebe;
 }
 
 .bg-light-gray-2 {
-  background: #959595
+  background: #959595;
 }
 
 .bg-light-gray-3 {
-  background: #7a7a7a
+  background: #7a7a7a;
 }
 
 .rotated {
   transform: rotate(-45deg);
   border-radius: 8px;
 }
-
 
 .brand-logo img {
   width: 200px;
@@ -108,7 +97,7 @@ picture>img {
   flex: 1;
   text-align: center;
   justify-content: space-around;
-  color: #ffffff;
+  color: #fff;
   text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
 }
 
@@ -120,7 +109,7 @@ picture>img {
   font-size: 12px;
   font-style: italic;
   font-weight: 100;
-  text-shadow: none
+  text-shadow: none;
 }
 
 .frame {
@@ -175,7 +164,6 @@ picture>img {
   position: relative;
 }
 
-
 .section-title {
   position: absolute;
   top: 40px;
@@ -187,55 +175,37 @@ picture>img {
 
 .section-title span {
   padding: 5px 15px;
-  background: #fff!important;
-  color: #222!important;
+  background: #fff !important;
+  color: #222 !important;
 }
 
-.first-div>:nth-child(1), .middle-div>:nth-child(1) {
+.first-div>:nth-child(1),
+.middle-div>:nth-child(1) {
   margin-top: 11em;
 }
 
-.first-div-floats, .middle-div-floats {
+.first-div-floats,
+.middle-div-floats {
   display: inline-flex;
   justify-content: space-around;
 }
 
-.first-div>:nth-child(2), .middle-div>:nth-child(2) {
+.first-div>:nth-child(2),
+.middle-div>:nth-child(2) {
   font-size: 3.7em;
   font-weight: 700;
   text-align: left;
   margin-bottom: 0%;
 }
 
-.first-div :nth-child(2) span, .middle-div:nth-child(2) span {
+.first-div :nth-child(2) span,
+.middle-div:nth-child(2) span {
   font-weight: 100;
   text-align: left;
   position: relative;
   bottom: 6em;
   right: 7em;
 }
-
-/* .middle-div>:nth-child(1) {
-  font-size: 41px;
-  font-weight: 700;
-  line-height: 1;
-  margin: 0;
-} */
-
-/* .middle-div>:nth-child(1) span {
-  background-color: #222;
-  color: #555;
-} */
-
-/* .middle-div>:nth-child(2) {
-  margin-top: 6em;
-} */
-
-/* .middle-div>:nth-child(3) {
-  font-size: 3.7em;
-  font-weight: 700;
-  text-align: left;
-} */
 
 .end-div {
   display: flex;
@@ -251,10 +221,12 @@ picture>img {
   font-weight: 700;
   text-align: left;
 }
-.employee-comments h2{
+
+.employee-comments h2 {
   color: #fff;
   background: none;
 }
+
 .latest-post {
   display: flex;
   flex-wrap: wrap;
@@ -399,7 +371,6 @@ picture>img {
   line-height: 1.2;
   color: #333;
 }
-
 
 .smashing-newsletter h3 {
   font-size: 47px;
@@ -606,8 +577,6 @@ picture>img {
   border-bottom-right-radius: 15px;
 }
 
-
-
 .smashing-topics {
   display: flex;
   flex-direction: column;
@@ -669,9 +638,11 @@ picture>img {
   width: 161px;
   justify-content: center;
 }
+
 footer {
-  color: #646464
+  color: #646464;
 }
+
 .go-up {
   position: fixed;
   bottom: 10px;
