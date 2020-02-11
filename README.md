@@ -15,15 +15,16 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/aulbytj/DesignTeardown/feature-a/index.html)
+[Live Demo Link](https://rawcdn.githack.com/aulbytj/DesignTeardown/943456754b41c7856def2954e0e870517bac2d5b/index.html)
 
 ## Authors
 
 👤 **Aulbourn Knowles**
 
-- Github: [@githubhandle](https://github.com/aulbytj)
-- Twitter: [@twitterhandle](https://twitter.com/aulbytj)
-- Linkedin: [linkedin](https://linkedin.com/in/aulbourn-knowles-b9971672)
+- Github: [@aulbytj](https://github.com/aulbytj)
+- Twitter: [@aulbytj](https://twitter.com/aulbytj)
+- Linkedin: [Aubourn Knowles](https://linkedin.com/in/aulbourn-knowles-b9971672)
+
 
 👤 **Author2**
 
@@ -35,7 +36,7 @@ Additional description about the project and its features.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/aulbytj/DesignTeardown/issues).
 
 ## Show your support
 
