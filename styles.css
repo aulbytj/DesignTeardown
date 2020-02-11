@@ -221,15 +221,15 @@ picture>img {
   color: #555;
 }
 
-.middle-div h3:nth-last-of-type(2) {
+.middle-div h3:nth-last-of-type(3) {
   font-size: 41px;
   line-height: 1;
   letter-spacing: -1;
   font-weight: 700;
 }
 
-.first-div>:nth-child(1),
-.middle-div>:nth-child(2) {
+.first-div>:nth-child(2),
+.middle-div>:nth-child(3) {
   margin-top: 12em;
 }
 
@@ -239,8 +239,8 @@ picture>img {
   justify-content: space-around;
 }
 
-.first-div>:nth-child(2),
-.middle-div>:nth-child(3) {
+.first-div>:nth-child(3),
+.middle-div>:nth-child(4) {
   font-size: 3.7em;
   font-weight: 700;
   text-align: left;
@@ -258,11 +258,11 @@ picture>img {
   flex-direction: column;
 }
 
-.end-div>:nth-child(2) {
+.end-div>:nth-child(3) {
   margin-top: 9em;
 }
 
-.end-div>:nth-child(3) {
+.end-div>:nth-child(4) {
   font-size: 3.7em;
   font-weight: 700;
   text-align: left;
