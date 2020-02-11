@@ -23,7 +23,7 @@ Additional description about the project and its features.
 
 - Github: [@aulbytj](https://github.com/aulbytj)
 - Twitter: [@aulbytj](https://twitter.com/aulbytj)
-- Linkedin: [Aubourn Knowles](https://linkedin.com/in/aulbourn-knowles-b9971672)
+- Linkedin: [Aulbourn Knowles](https://linkedin.com/in/aulbourn-knowles-b9971672)
 
 
 👤 **Author2**
