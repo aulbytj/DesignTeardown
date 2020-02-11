@@ -7,20 +7,20 @@ body {
   font-family: sans-serif;
 }
 
+h2 {
+  display: none;
+}
+
 h1,
-h2,
 h3 {
   font-family: 'MijaW03-Bold';
 }
 
-h2 {
+h3 {
   margin: 0;
   padding: 0;
   font-size: 25px;
   text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
-}
-
-h3 {
   font-weight: 700;
 }
 
@@ -179,9 +179,58 @@ picture>img {
   color: #222 !important;
 }
 
+.latest-post h3 {
+  font-size: 30px;
+  color: #888;
+}
+
+.pre-launch h3 {
+  font-size: 3.1em;
+  line-height: 62px;
+  margin: 0;
+  color: #555;
+}
+
+.community-post>h3 {
+  font-size: 1.3em;
+  letter-spacing: 2px;
+  line-height: 47px;
+  font-weight: 400;
+}
+
+.author-content h3 {
+  font-size: 37px;
+  line-height: 47px;
+}
+
+.smashing-book-content h3 {
+  font-size: 47px;
+  line-height: 56px;
+  color: #555;
+}
+
+.curated-content h3 {
+  font-size: 30px;
+  line-height: 1.2;
+  color: #333;
+}
+
+.smashing-newsletter h3 {
+  font-size: 47px;
+  line-height: 57px;
+  color: #555;
+}
+
+.middle-div h3:nth-last-of-type(2) {
+  font-size: 41px;
+  line-height: 1;
+  letter-spacing: -1;
+  font-weight: 700;
+}
+
 .first-div>:nth-child(1),
-.middle-div>:nth-child(1) {
-  margin-top: 11em;
+.middle-div>:nth-child(2) {
+  margin-top: 12em;
 }
 
 .first-div-floats,
@@ -191,18 +240,15 @@ picture>img {
 }
 
 .first-div>:nth-child(2),
-.middle-div>:nth-child(2) {
+.middle-div>:nth-child(3) {
   font-size: 3.7em;
   font-weight: 700;
   text-align: left;
   margin-bottom: 0%;
 }
 
-.first-div :nth-child(2) span,
-.middle-div:nth-child(2) span {
+.first-div :nth-child(1) span {
   font-weight: 100;
-  text-align: left;
-  position: relative;
   bottom: 6em;
   right: 7em;
 }
@@ -230,11 +276,6 @@ picture>img {
 .latest-post {
   display: flex;
   flex-wrap: wrap;
-}
-
-.latest-post h3 {
-  font-size: 30px;
-  color: #888;
 }
 
 .latest-post button {
@@ -301,7 +342,7 @@ picture>img {
 }
 
 .latest-post .md {
-  flex-basis: 224px;
+  flex-basis: 318px;
   height: 694px;
   background: #999;
 }
@@ -331,13 +372,6 @@ picture>img {
   justify-content: center;
 }
 
-.pre-launch h3 {
-  font-size: 3.1em;
-  line-height: 62px;
-  margin: 0;
-  color: #555;
-}
-
 .pre-launch button {
   height: 59px;
   border-radius: 20px;
@@ -346,36 +380,6 @@ picture>img {
   border: 3px solid #cdcdcd;
   color: #cdcdcd;
   background: rgb(73, 73, 73);
-}
-
-.community-post>h3 {
-  font-size: 1.3em;
-  letter-spacing: 2px;
-  line-height: 47px;
-  font-weight: 400;
-}
-
-.author-content h3 {
-  font-size: 37px;
-  line-height: 47px;
-}
-
-.smashing-book-content h3 {
-  font-size: 47px;
-  line-height: 56px;
-  color: #555;
-}
-
-.curated-content h3 {
-  font-size: 30px;
-  line-height: 1.2;
-  color: #333;
-}
-
-.smashing-newsletter h3 {
-  font-size: 47px;
-  line-height: 57px;
-  color: #555;
 }
 
 .latest-post .lg h3 {
@@ -649,4 +653,11 @@ footer {
   right: 10px;
   padding: 25px 35px;
   font-size: 30px;
+}
+
+.footer-img {
+  align-self: flex-end;
+  height: 65px;
+  width: 65px;
+  background: #888;
 }
