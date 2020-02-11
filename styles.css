@@ -13,7 +13,11 @@ h2 {
 
 h1,
 h3 {
-  font-family: 'MijaW03-Bold';
+  font-family:
+    'MijaW03-Bold',
+    Arial,
+    Helvetica,
+    sans-serif;
 }
 
 h3 {
